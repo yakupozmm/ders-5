@@ -1,0 +1,34 @@
+body{
+ background-color: antiquewhite
+}
+
+
+/* #fullname{ background-color: bisque;
+    
+
+}
+
+#email{
+
+background-color: bisque;
+
+
+
+} */
+
+
+
+
+
+#email, #fullname{ 
+    font-size: 26px;
+    border-bottom: solid blue 2px;
+     border: none;
+    outline: none;
+
+
+
+}
+
+
+
